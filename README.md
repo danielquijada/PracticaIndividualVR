@@ -6,7 +6,7 @@ Además, debía colocarse una esfera que contuviera la cámara en primera person
 
 # Descarga
 
-Aquí se pueden descargar los proyectos compilados:
+Aquí se pueden descargar los proyectos compilados, ambos en la carpeta bin:
 
-* [Para Windows (.exe)](Link para .exe)
-* [Para Android (.apk)](Link para .apk)
+* Para Windows (.exe)
+* Para Android (.apk)
